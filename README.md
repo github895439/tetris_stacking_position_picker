@@ -2,7 +2,7 @@
 
 # 機能
 テトリスの動画を解析して、ミノの積み位置を抽出します。    
-「 https://www.youtube.com/watch?v=kJohHun8ANI 」の左フィールドを抽出したものが★です。    
+「 https://www.youtube.com/watch?v=kJohHun8ANI 」の左フィールドを抽出したものが https://github.com/github895439/tetris_stacking_position_picker/tree/master/log です。    
 (ログの「表示無し」をチェック外れの状態で40分弱かかりました。)    
 基本的に、画面のログとログファイル(実行ファイルの場所に出力)の内容は同じです。    
 ログファイルは1ファイル/クレジットです。    
