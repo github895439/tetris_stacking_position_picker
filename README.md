@@ -74,4 +74,6 @@ VSのプロジェクトの右クリックメニューの「NuGetパッケージ�
 下記は設計メモです。    
 (「追記」以降がコーディングを始めてから追記した内容です。)    
 https://github.com/github895439/tetris_stacking_position_picker/blob/master/design_memo.txt    
-フレームの確認はaviutlを使用しています。
+フレームの確認はaviutlを使用しています。    
+設定値を変えれば右のフィールドも抽出できるはず。
+動画ファイルを変えて、動画に基づいた設定値にすれば、他の動画からも抽出できるはず。
