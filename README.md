@@ -29,7 +29,7 @@ OpenCVSharp4.runtime.win v4.2.0.20200208(nuget)
 OpenCVSharp4.Windows v4.2.0.20200208(nuget)    
 
 # ビルド
-1. 本ツールをダウンロード
+1. 本ツールをダウンロード    
 https://github.com/github895439/tetris_stacking_position_picker
 
 1. ダウンロードしたものを展開
