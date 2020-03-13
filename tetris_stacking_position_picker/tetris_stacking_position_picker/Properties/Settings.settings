@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="tetris_stacking_position_picker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GAME_START_AND_END_BLIGHTNESS_MIN" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.95</Value>
+    </Setting>
+    <Setting Name="EXIST_BLIGHTNESS_FIELD_MIN" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="EXIST_BLIGHTNESS_NEXT_MIN" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.25</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
