@@ -36,7 +36,7 @@ https://github.com/github895439/tetris_stacking_position_picker
 
 1. 展開したソリューションをVSでオープン
 
-1. OpenCVSharpをインストール
+1. OpenCVSharpをインストール    
 VSのプロジェクトの右クリックメニューの「NuGetパッケージの管理」を選択する。    
 「opencvsharp4」を検索し、結果一覧の「OpenCVSharp4.Windows」をインストールする。    
 (依存関係により、バージョンに挙げた残り2つのOpenCVSharpも自動的にインストールされる。)    
