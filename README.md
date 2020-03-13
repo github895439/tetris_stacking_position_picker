@@ -72,5 +72,5 @@ VSのプロジェクトの右クリックメニューの「NuGetパッケージ�
 # 備考    
 下記は設計メモです。    
 (「追記」以降がコーディングを始めてから追記した内容です。    
-★    
+https://github.com/github895439/tetris_stacking_position_picker/blob/master/design_memo.txt
 フレームの確認はaviutlを使用しています。
